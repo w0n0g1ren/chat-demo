@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097474156469",
+    "project_id": "mychatfirebase-1539f",
+    "storage_bucket": "mychatfirebase-1539f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097474156469:android:4a9d4b923f057ef9a21bfc",
+        "android_client_info": {
+          "package_name": "com.mediakom.pushnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-7OX1ii3m3POqnA7-5awO7ZWKAp51TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
